@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #1E1E1E;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.moonphoto{
+    border-radius: 100px;
+    width: 746px;
+    height: 514px;
+    background-image: url(moon.png);
+    margin-top: 82px;
+    margin-left: 217px;
+}
+
+.box1{
+    width: 531px; 
+    height: 621px;
+    background-color: #071922;
+    border-radius: 100px;
+    margin-left: 710px;
+    margin-top: -490px;
+}
+
+
+.text1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 54px;
+    padding-top: 46px;
+    color: #ffffff;
+}
+.text2{
+    text-align: center;
+    font-weight: 400;
+    font-size: 58px;
+    color: #ffffff;
+    margin-top: -20px;
+}
+.labels{
+    margin-top: 45px;
+}
+.email1, .password1{
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+    margin-left: 58px;
+
+}
+.email2{
+    width: 480px;
+    height: 59px;
+    background: rgb(217, 217, 217, 0.57);
+    border-radius: 100px;
+    outline: none;
+    border: none;
+    color: rgba(217,217,217, 0.56);
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 29px;
+    padding: 29px;
+}
+
+
+.password2{
+    width: 480px;
+    height: 59px;
+    background: rgb(217, 217, 217, 0.57);
+    border-radius: 100px;
+    outline: none;
+    border: none;
+    color: rgba(217,217,217, 0.56);
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 29px;
+    padding: 29px;
+}
+
+.button{
+    width: 206px;
+    height: 59px;
+    border-radius: 100px;
+    border: none;
+    cursor: pointer;
+    background-color: #dbd2cd;
+    font-weight: 700;
+    font-size: 26px;
+    margin-left: 163px;
+    margin-top: 44px;
+}
+
+.paragraph{
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(255,255,255,0.54);
+    margin-left: 153px;
+}
+
